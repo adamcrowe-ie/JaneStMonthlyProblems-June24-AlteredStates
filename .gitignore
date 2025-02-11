@@ -1,5 +1,6 @@
-*/.vscode
-*/.exe
+.vscode
+*.exe
+*.DS_Store
 
 /Aug 2024
 /Nov 2024
